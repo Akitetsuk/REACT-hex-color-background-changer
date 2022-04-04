@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.Btn {
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.Btn:hover {
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
